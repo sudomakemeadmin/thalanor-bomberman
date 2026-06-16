@@ -1,12 +1,3 @@
-=================================================
-THALANOR: Przeklęte Ruiny - pliki audio
-=================================================
-
-Wrzuć tutaj pliki o NASTĘPUJĄCYCH NAZWACH:
-
-MUZYKA W TLE (gra od startu, zapętlona):
-  theme.ogg   <- preferowany format (lub theme.mp3)
-
 EFEKTY DŹWIĘKOWE (krótkie, format WAV):
   bomb_place.wav    - stawianie bomby
   bomb_explode.wav  - wybuch bomby
