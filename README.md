@@ -67,7 +67,7 @@ Projekt zrealizowany w ramach przedmiotu **Projektowanie Gier**. Napisany od pod
 
 #### Opcja 1 — Plik `.exe` (Windows, bez instalacji)
 
-Pobierz `thalanor_final.exe` z repozytorium i uruchom. Przy pierwszym uruchomieniu Windows Defender może wyświetlić ostrzeżenie — kliknij „Więcej informacji" → „Uruchom mimo to".
+Pobierz `THALANOR.exe` ze strony **[Releases](https://github.com/sudomakemeadmin/thalanor-bomberman/releases/latest)** i uruchom. Przy pierwszym uruchomieniu Windows Defender może wyświetlić ostrzeżenie — kliknij „Więcej informacji" → „Uruchom mimo to".
 
 #### Opcja 2 — Z kodu źródłowego
 
@@ -85,18 +85,17 @@ python thalanor_final.py
 ```
 thalanor-bomberman/
 ├── thalanor_final.py          # Kod źródłowy (~1380 linii)
-├── thalanor_final.exe         # Skompilowana wersja Windows
 ├── DOKUMENTACJA_PROJEKTU.md   # Pełna dokumentacja techniczna
-├── ranking.json               # Ranking TOP 10 (generowany w trakcie gry)
 └── assets2/
     ├── player/                # Sprite'y gracza (4 klatki animacji)
     ├── skeleton/              # Sprite'y szkieleta
     ├── orc/                   # Sprite'y orka
     ├── tiles/                 # Tekstury kafelków (runda 1 i 2/3)
     ├── powerups/              # Ikony ulepszeń
-    ├── hud/                   # Cyfry, ikony, logo
-    └── music/                 # Muzyka i SFX (opcjonalne)
+    └── hud/                   # Cyfry, ikony, logo
 ```
+
+> Plik wykonywalny `.exe` dostępny w zakładce [Releases](https://github.com/sudomakemeadmin/thalanor-bomberman/releases/latest).
 
 ### 🏗️ Architektura
 
