@@ -159,7 +159,7 @@ Or download `thalanor_final.exe` for Windows — no installation required.
 ### 👥 Authors
 
 - **Adam Ostrowski** — audio system, fire/particle effects, leaderboard, HUD, player sprites
-- **Arkadiusz Nowiszewski** — enemy AI (BFS), bomb mechanics, map generation, gameplay classes, level art
+- **Arkadiusz Noiszewski** — enemy AI (BFS), bomb mechanics, map generation, gameplay classes, level art
 
 ### 📄 License
 
