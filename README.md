@@ -115,7 +115,7 @@ Zastosowane techniki: **BFS** (AI wrogów), **maszyna stanów** (15 ekranów), *
 | Autor | Zakres |
 |---|---|
 | **Adam Ostrowski** | Audio (muzyka + proceduralne SFX), efekty ognia i cząsteczek, ranking, ekrany pomocnicze, HUD, sprite'y gracza |
-| **Arkadiusz Nowiszewski** | AI wrogów (BFS), mechanika bomb, generowanie mapy, klasy Enemy/Player/Bomb/PowerUp, grafika tła i poziomów |
+| **Arkadiusz Noiszewski** | AI wrogów (BFS), mechanika bomb, generowanie mapy, klasy Enemy/Player/Bomb/PowerUp, grafika tła i poziomów |
 | Wspólnie | Silnik gry, maszyna stanów, balans rozgrywki |
 
 ---
